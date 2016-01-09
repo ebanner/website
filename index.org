@@ -56,7 +56,7 @@ learning.
 
   - [[https://github.com/ebanner][Github]]
   - [[https://linkedin.com/in/ebanner][Linkedin]]
-  - [[https://www.cs.utexas.edu/~ebanner/resume.pdf][Resume]]
+  - [[file:resume.pdf][Resume]]
 
 * Helpful Links
 
