@@ -1,0 +1,65 @@
+#+TITLE: Edward Banner
+#+AUTHOR: Edward Banner
+#+EMAIL: ebanner@cs.utexas.edu
+
+#+OPTIONS: toc:nil html-style:nil num:nil email:nil author:nil 
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+
+#+NAME: Eddie
+[[./eddie.jpg]]
+
+I am a PhD student at the University of Texas at Austin working with
+[[http://byron.ischool.utexas.edu/][Byron Wallace]] on scaling [[https://en.wikipedia.org/wiki/Evidence-based_medicine][Evidence-Based Medicine]]. I am broadly
+interested in applications of natural language processing and deep
+learning.
+
+* Contact
+
+  - Email: ebanner@cs.utexas.edu
+  - Desk: GDC 3.158F
+  
+* Education
+  
+** The University of Texas at Austin
+   
+   Fall 2014 - present
+   
+*** Teaching Assistant Experience
+    
+    - [[https://www.cs.utexas.edu/users/downing/cs373/][CS373 Software Engineering]] (x2)
+    - [[https://www.linkedin.com/in/devdatta-kulkarni-192ab46][CS378 Modern Web Applications]]
+
+*** Coursework
+    
+    - [[https://www.cs.utexas.edu/~pstone/Courses/393Rfall15/][CS 393R Autonomous Robots]]
+    - [[https://www.cs.utexas.edu/users/dsb/cs392f/][CS 392F Automated Software Design]]
+    - [[https://www.cs.utexas.edu/~mooney/cs388/][CS 388 Natural Language Processing]]
+    - [[https://www.cs.utexas.edu/~dana/MLClass/][CS 391L Machine Learning]]
+    - [[https://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97][CS 395T Introduction to Cognitive Science]]
+    - [[https://www.cs.utexas.edu/~mok/][CS 386C Dependable Computing Systems]]
+
+** The State University of New York at Potsdam
+
+   2011 - 2013
+
+   - B.S. [[http://cs.potsdam.edu/CS/?q=majorBS][Computer Science]] and [[http://www.potsdam.edu/academics/AAS/Math/bamathematics.cfm][Mathematics]]
+   - [[http://www.cs.potsdam.edu/CS/CS-LEAP/][NSF Computer Science Leadership and Practice scholarship]]
+
+** Hudson Valley Community College
+
+   2009 - 2011
+
+   - A.S. [[https://www.hvcc.edu/catalog/programs/bus/css.html][Computer Information Systems]]
+
+* Miscellaneous
+
+  - [[https://github.com/ebanner][Github]]
+  - [[https://linkedin.com/in/ebanner][Linkedin]]
+  - [[https://www.cs.utexas.edu/~ebanner/resume.pdf][Resume]]
+
+* Helpful Links
+
+  - [[https://cs231n.github.io/optimization-2/][Intuitive Backprop]] - Andrej Karpathy explains backprop simply
+  - [[http://cs224d.stanford.edu/][cs224d]] - Richard Socher's Deep Learning for NLP course
+  - [[http://cs229.stanford.edu/section/cs229-linalg.pdf][Linear Algebra reference]]
