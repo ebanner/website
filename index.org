@@ -16,7 +16,7 @@ learning.
 
 * Contact
 
-  - Email: ebanner [AT] cs DOT utexas DOT edu
+  - Email: ebanner [AT-SIGN] cs DOT utexas DOT edu
   - Desk: GDC 3.158F
   
 * Education
@@ -31,7 +31,9 @@ learning.
     - [[https://www.linkedin.com/in/devdatta-kulkarni-192ab46][CS378 Modern Web Applications]]
 
 *** Coursework
-    
+
+    - [[http://vision.cs.utexas.edu/381V-spring2016/][CS 381V Visual Recognition]]
+    - [[https://www.cs.utexas.edu/~vl/teaching/][CS 388L Introduction to Mathematical Logic]]
     - [[https://www.cs.utexas.edu/~pstone/Courses/393Rfall15/][CS 393R Autonomous Robots]]
     - [[https://www.cs.utexas.edu/users/dsb/cs392f/][CS 392F Automated Software Design]]
     - [[https://www.cs.utexas.edu/~mooney/cs388/][CS 388 Natural Language Processing]]
