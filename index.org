@@ -16,7 +16,7 @@ learning.
 
 * Contact
 
-  - Email: ebanner@cs.utexas.edu
+  - Email: ebanner [AT] cs DOT utexas DOT edu
   - Desk: GDC 3.158F
   
 * Education
