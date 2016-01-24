@@ -11,8 +11,7 @@
 
 I am a PhD student at the University of Texas at Austin working with
 [[http://byron.ischool.utexas.edu/][Byron Wallace]] on scaling [[https://en.wikipedia.org/wiki/Evidence-based_medicine][Evidence-Based Medicine]]. I am broadly
-interested in applications of natural language processing and deep
-learning.
+interested in natural language processing and deep learning.
 
 * Contact
 
