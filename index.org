@@ -58,6 +58,7 @@ interested in natural language processing and deep learning.
   - [[https://github.com/ebanner][Github]]
   - [[https://linkedin.com/in/ebanner][Linkedin]]
   - [[https://docs.google.com/viewer?url=https://github.com/ebanner/Resume/raw/master/resume.pdf][Resume]]
+  - [[file:notebooks][Notebooks]]
 
 * Helpful Links
 
