@@ -7,7 +7,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 
 #+NAME: Eddie
-[[./eddie.jpg]]
+[[./edward.jpg]]
 
 I am a PhD student at the University of Texas at Austin working with
 [[http://byron.ischool.utexas.edu/][Byron Wallace]] on scaling [[https://en.wikipedia.org/wiki/Evidence-based_medicine][Evidence-Based Medicine]]. I am broadly
@@ -59,6 +59,7 @@ interested in natural language processing and deep learning.
   - [[https://linkedin.com/in/ebanner][Linkedin]]
   - [[https://docs.google.com/viewer?url=https://github.com/ebanner/Resume/raw/master/resume.pdf][Resume]]
   - [[file:notebooks][Notebooks]]
+  - [[http://codeforces.com/blog/ebanner][Codeforces blog]]
 
 * Helpful Links
 
